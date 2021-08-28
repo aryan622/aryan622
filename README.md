@@ -1,10 +1,4 @@
-
-
-
-
-__author__ = "Rohit Rane"
-
-import os
+Import os
 import sys
 import pygame
 import random
